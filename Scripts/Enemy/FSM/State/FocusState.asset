@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e35c42aba2ce0ae4391290d283e367a6, type: 3}
+  m_Name: FocusState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 1eb8f7699a41f8d49b430ee025d732f2, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: b89f8967fa98232429c246e6cca90161, type: 2}
+    trueState: {fileID: 11400000, guid: 340608d347b2fef47b9284b03d42f095, type: 2}
+    falseState: {fileID: 11400000, guid: 46d5d783c6e74f64b8c63f22d831b6d8, type: 2}
+  sceneGizmoColor: {r: 0, g: 0, b: 1, a: 1}

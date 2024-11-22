@@ -34,6 +34,8 @@ Unity를 활용해 PC 플랫폼을 대상으로 제작했으며, 액션과 리�
 
 ### 🖼️ Screenshot or Gameplay Preview  
 
+![게임 포스터](https://github.com/user-attachments/assets/8ef0d2e0-ae65-4a02-92b3-21d94c90350d)
+
 ![플러거블 AI 예시](https://github.com/user-attachments/assets/23a83b2e-12b9-416e-b5ca-d0c81cf1769e)
 
 ## 🎥 Gameplay Video  

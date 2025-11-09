@@ -1,34 +1,41 @@
 # 🎮 Portfolio: **Night Mare**  
-2023 지스타 참가 프로젝트
+2023 지스타 프로젝트 | G-Star 2023 Showcase Project
 
 ---
 
 ## 📝 Project Info  
-**Night Mare**는 **학생** 팀의 4명이 협력하여 개발한 로그라이크 리듬 FPS 게임입니다.  
-Unity를 활용해 PC 플랫폼을 대상으로 제작했으며, 액션과 리듬, FPS의 재미를 결합한 게임입니다.
+**Night Mare**는 학생 팀 4명이 협업해 개발한 로그라이크 리듬 FPS 게임입니다.
+Unity로 PC 플랫폼을 타깃으로 제작했으며, 액션·리듬·FPS의 재미를 결합했습니다.
+“Night Mare” is a roguelike rhythm FPS built by a four-member student team.
+Developed with Unity for PC, it blends action, rhythm, and FPS gameplay.
 
-- **게임 제목**: Night Mare
-- **장르**: 액션, 리듬, FPS  
-- **플랫폼**: PC  
-- **개발 환경**: Unity, C#
+**게임 제목** | Title: Night Mare
+**장르** | Genre: 액션, 리듬, FPS | Action, Rhythm, FPS
+**플랫폼** | Platform: PC
+**개발 환경** | Tech Stack: Unity, C#
 
 ---
 
 ## 💼 Development Work  
-**개발 기간**: 2023년 8월 ~ 11월 
+**개발 기간** | Development Period: 2023년 8월 ~ 11월 | Aug–Nov 2023
+**주요 개발 내용 | Key Contributions**
+**플러거블 AI (FSM) 구현**
+플러거블 AI 패턴으로 상태/전이(조건)/행동을 모듈화하여 추후 행동을 추가하기 편하게 적 AI를 설계·구현.
+Pluggable AI (FSM): modular State/Transition/Action design → easy behavior extensions.
 
-### 주요 개발 내용  
-- **플러거블 AI**:  
-  - 플러거블 AI를 통한 FSM을 구현하여 적 AI를 구현할 때 조건과 행동만 구현.
-- **키 바인딩 시스템**:
-  - 사용자가 원하는 키로 행동을 설정할 수 있게 구현.
+**키 바인딩 시스템**
+사용자가 원하는 키로 각 행동을 재매핑할 수 있도록 커스텀 키 바인딩 제공.
+Custom Key Binding — Implemented user-configurable action remapping.
 
 
 ---
 
 ## ✨ Highlights  
-- **팀 협업**: 4인 구성원들과 협업하며 프로젝트를 완성.  
-- **FPS 구현 경험**: 액션과 리듬, FPS를 결합한 재미있는 게임플레이 설계.
+**팀 협업**: 4인 협업으로 역할 분담과 통합 빌드 파이프라인 운영.
+Teamwork — Coordinated roles and maintained an integrated build pipeline across a four-person team.
+
+**FPS/리듬 결합 경험**: 사운드 비트와 전투 루프를 연동한 리듬-FPS 설계.
+Rhythm-FPS Design — Synced combat loops to musical beats for engaging moment-to-moment play.
 
 ---
 
@@ -40,8 +47,9 @@ Unity를 활용해 PC 플랫폼을 대상으로 제작했으며, 액션과 리�
 
 ## 🎥 Gameplay Video  
 [![Knight Mare](https://img.youtube.com/vi/a8nEX9EtCwg/0.jpg)](https://www.youtube.com/watch?v=a8nEX9EtCwg)  
-> 위 이미지를 클릭하면 Knight Mare의 티저를 볼 수 있습니다!
+> 이미지를 클릭하면 Night Mare 티저 영상으로 이동합니다.
+Click the thumbnail to watch the Night Mare teaser on YouTube.
 ---
 
 ## 📧 Contact  
-- **Email**: [dfg0715@naver.com]
+- **Email**: [sacom415263@gmail.com]
